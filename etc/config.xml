@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <default>
+        <secondvictoriamod_config>
+            <general>
+                <promo_sku>gift-product</promo_sku>
+                <for_sku>24-MB01, 24-MB02, 24-MB03, 24-MB04</for_sku>
+            </general>
+        </secondvictoriamod_config>
+    </default>
+</config>
